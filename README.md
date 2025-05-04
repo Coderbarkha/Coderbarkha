@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Barkha</h1>
 <h3 align="center">A tech enthusiast</h3>
 
-- 🔭 I’m currently **in Final year student of BCA**
+- 🔭 I’m currently **in Final year of BCA**
 
 - 🌱 I’m currently learning **React**
 
