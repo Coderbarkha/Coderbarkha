@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **in Final year student of BCA**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
