@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 
 ![Coderbarkha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coderbarkha&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Coderbarkha&theme=tokyonight)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Coderbarkha&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderbarkha&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
